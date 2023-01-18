@@ -5,3 +5,4 @@
 | Days | Github Project | Demo |
 | --- | --- | --- |
 | Day 1 | [Expanding Cards](/expanding-cards/) | ... |
+| Day 2 | [Progress Steps](/progress-steps/) | ... |
