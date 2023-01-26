@@ -9,3 +9,4 @@
 | Day 3 | [Hidden Search](/hidden-search/) | ... |
 | Day 4 | [Blurry Loading](/blurry-loading/) | ... |
 | Day 5 | [Password Generator](/password-generator/) | ... |
+| Day 6 | [Quiz App](/Quiz-App/) | ... |
